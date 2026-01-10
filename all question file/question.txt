@@ -1,0 +1,34 @@
+** Assignment-1
+Q-1: Write a program in C++ to implement Insertion and Selection Sort in two
+      separate user defined function, using array for the data structure.
+
+Q-2: Write a program in C++ to implement Merge Sort,
+      using array for the data structure.
+
+** Assignment-2
+Q-1:Write a program in C++ to implement Stack using array.
+Q-2:Write a program in C++ to implement Circular Queue using array.
+
+
+** Assignment-3
+Q-1: Write a program to implement a Singly Linked List and perform the following operations:
+
+Insert a node at the beginning of the list
+
+Insert a node at the end of the list
+
+Insert a node at a specific position
+
+Delete a node from the beginning
+
+Delete a node from the end
+
+Delete a node containing a given value
+
+Display all elements of the list
+
+Q-2: Given a singly linked list, write a program to perform the following operations:
+
+Reverse the linked list iteratively
+
+Find the middle element of the linked list in a single traversal
